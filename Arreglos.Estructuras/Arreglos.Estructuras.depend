@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1644702223 source:c:\users\admin\documents\universidad\clases\segundo semestre\estructura de datos\arreglos.estructuras\main.cpp
+	<iostream>
+	<locale>
+	<stdlib.h>
+
